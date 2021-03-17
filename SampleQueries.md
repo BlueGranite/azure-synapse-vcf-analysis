@@ -53,7 +53,7 @@ ORDER BY contigName,
 
 ```sql
 DECLARE @motif varchar(1000)
-Set     @motif = 'TA'
+SET     @motif = 'TA'
 
 SELECT  contigName
         ,[start]
