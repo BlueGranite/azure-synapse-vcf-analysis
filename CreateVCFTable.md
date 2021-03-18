@@ -1,5 +1,7 @@
 # Create Variants Tables from VCF
 
+Note: Though VCF is a common file type in bioinformatics, the column specification is quite flexible and may vary depending on the system that generates your VCFs. The following schema is based on the 1000 Genomes Project VCF specification.
+
 ```sql
 IF NOT EXISTS (SELECT * FROM sys.external_file_formats WHERE name = 'SynapseParquetFormat') 
 	CREATE EXTERNAL FILE FORMAT [SynapseParquetFormat] 
