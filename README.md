@@ -11,7 +11,7 @@ Sample code for analyzing VCF files in Azure Synapse (once converted to Parquet 
 ## Sample Code
 - Convert VCF files to Parquet: [ConvertVCFsToParquet.md](ConvertVCFsToParquet.md)
 - Create External Table to VCF-based Parquet Files in Azure Synapse: [CreateVCFTable.md](CreateVCFTable.md)
-- Sample Queries: [SampleQueries.md](SampleQueries.md)
+- Sample SQL Queries: [SampleQueries.md](SampleQueries.md)
 
 
 <img src="https://raw.githubusercontent.com/BlueGranite/azure-synapse-vcf-analysis/main/img/synapse.png">
