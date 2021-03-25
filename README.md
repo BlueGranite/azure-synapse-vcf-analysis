@@ -22,6 +22,6 @@ This include ~168GB of data in VCFs, which can be downloaded from their [FTP sit
 
 ## BlueGranite Resources
 - This repository accompanies the BlueGranite blog post: https://www.bluegranite.com/blog/query-millions-of-genomic-variants-in-minutes-with-azure-synapse
-- Demo video on YouTube: [Coming Soon...]()
+- Demo video on YouTube: [https://www.youtube.com/watch?v=4B-8cviFPYU](https://www.youtube.com/watch?v=4B-8cviFPYU)
 - _Building a Genomics Data Lake in Azure_ eBook: https://www.bluegranite.com/genomics-data-lake-ebook
 - BlueGranite Genomics Page: https://www.bluegranite.com/genomics
