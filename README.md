@@ -18,7 +18,7 @@ Sample code for analyzing VCF files in Azure Synapse (once converted to Parquet 
 
 ## Sample Data
 The sample VCF data used in this demo is from the Phase 3 release of the [1000 Genomes Project](https://www.internationalgenome.org/data/).
-This include ~168GB of data in VCFs, which can be downloaded from their [FTP site](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/).
+This includes ~168GB of data in VCFs, which can be downloaded from their [FTP site](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/).
 
 ## BlueGranite Resources
 - This repository accompanies the BlueGranite blog post: https://www.bluegranite.com/blog/query-millions-of-genomic-variants-in-minutes-with-azure-synapse
